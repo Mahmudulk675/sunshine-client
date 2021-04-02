@@ -1,0 +1,14 @@
+.cardContainer{
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    position: relative; */
+    width:100%;
+    justify-content:center;
+    background-color:lightgray;
+
+}
+.spinner {
+    text-align:center;
+    justify-content:center;
+    align-items:center;
+}

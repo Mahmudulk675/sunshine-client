@@ -1,0 +1,12 @@
+.Image{
+    height: auto;
+    width: 120px;
+}
+.textColor{
+    color:red
+}
+.customerInfo img{
+    border: 1px solid black;
+    border-radius:13px;
+    margin-left: 100px;
+}
